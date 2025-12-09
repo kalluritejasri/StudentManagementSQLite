@@ -18,6 +18,7 @@ Technologies Used
 
 Project Structure
 StudentManagementSQLite/
+
 ├── DBConnection.java
 ├── DBSetup.java
 ├── StudentOperations.java
