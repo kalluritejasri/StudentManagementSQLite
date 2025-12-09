@@ -25,7 +25,8 @@ StudentManagementSQLite/
 ├── StudentManagementSQLite.java
 ├── sqlite-jdbc-3.42.0.0.jar
 ├── student_db.db (auto-generated)
- How to Run
+
+How to Run
 1. Make sure Java is installed  
 2. Download the project and open the folder
 3. Compile the project:
